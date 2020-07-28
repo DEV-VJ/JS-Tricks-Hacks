@@ -20,5 +20,4 @@ const user = loginuser("avijay@ongoframework.com",123456,(user) => {
     });
 });
 
-
 console.log('End');

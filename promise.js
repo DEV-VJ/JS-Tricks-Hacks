@@ -1,3 +1,4 @@
+//Promises
 // const promise = new Promise((resolve,reject) => {
 //     const status = false;
 //     setTimeout(() => {

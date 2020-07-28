@@ -101,7 +101,7 @@ const character = "Beautiful";
 console.log(`Girl is ${character}`);
 
 const heros = ['Super Girl','Hulk'];
-heros.push("Annapoorna");
+heros.push("Honey");
 console.log(JSON.stringify(heros))
 
 //Copying object cases (27/07/2019)
